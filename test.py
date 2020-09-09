@@ -1,2 +1,0 @@
-print("Ants are dope")
-
